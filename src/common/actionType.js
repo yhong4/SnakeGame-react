@@ -1,0 +1,6 @@
+export const DIRECTION_RIGHT ='direction_right'
+export const DIRECTION_UP ='direction_up'
+export const DIRECTION_DOWN ='direction_down'
+export const DIRECTION_LEFT ='direction_left'
+export const CHANGE_DIRECTION ='change_direction'
+export const RESET_DIRECTION = 'reset_direction'
